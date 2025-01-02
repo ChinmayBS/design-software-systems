@@ -2,6 +2,6 @@ plugins {
     id 'java'
 }
 
-sourceCompatibility = '22'
-targetCompatibility = '22'
+sourceCompatibility = '21'
+targetCompatibility = '21'
 version = '0.0.1'
